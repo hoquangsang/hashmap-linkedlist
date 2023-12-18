@@ -1,0 +1,798 @@
+[constructor] - khoi tao thanh cong
++ m = 10
++ output file = test.txt
+- thanh cong
++ key = 1
++ hash value = 6
++ xung dot: [khong]
+- thanh cong
++ key = 2
++ hash value = 2
++ xung dot: [khong]
+- thanh cong
++ key = 3
++ hash value = 8
++ xung dot: [khong]
+- thanh cong
++ key = 4
++ hash value = 4
++ xung dot: [khong]
+- thanh cong
++ key = 5
++ hash value = 0
++ xung dot: [khong]
+- thanh cong
++ key = 6
++ hash value = 7
++ xung dot: [khong]
+- thanh cong
++ key = 7
++ hash value = 3
++ xung dot: [khong]
+- thanh cong
++ key = 8
++ hash value = 9
++ xung dot: [khong]
+- thanh cong
++ key = 9
++ hash value = 5
++ xung dot: [khong]
+- thanh cong
++ key = 10
++ hash value = 1
++ xung dot: [khong]
+- thanh cong
++ key = 11
++ hash value = 7
++ xung dot: [co]
+- thanh cong
++ key = 12
++ hash value = 4
++ xung dot: [co]
+- thanh cong
++ key = 13
++ hash value = 0
++ xung dot: [co]
+- thanh cong
++ key = 14
++ hash value = 6
++ xung dot: [co]
+- thanh cong
++ key = 15
++ hash value = 2
++ xung dot: [co]
+- thanh cong
++ key = 16
++ hash value = 8
++ xung dot: [co]
+- thanh cong
++ key = 17
++ hash value = 5
++ xung dot: [co]
+- thanh cong
++ key = 18
++ hash value = 1
++ xung dot: [co]
+- thanh cong
++ key = 19
++ hash value = 7
++ xung dot: [co]
+- thanh cong
++ key = 20
++ hash value = 3
++ xung dot: [co]
+- thanh cong
++ key = 21
++ hash value = 9
++ xung dot: [co]
+- thanh cong
++ key = 22
++ hash value = 5
++ xung dot: [co]
+- thanh cong
++ key = 23
++ hash value = 2
++ xung dot: [co]
+- thanh cong
++ key = 24
++ hash value = 8
++ xung dot: [co]
+- thanh cong
++ key = 25
++ hash value = 4
++ xung dot: [co]
+- thanh cong
++ key = 26
++ hash value = 0
++ xung dot: [co]
+- thanh cong
++ key = 27
++ hash value = 6
++ xung dot: [co]
+- thanh cong
++ key = 28
++ hash value = 3
++ xung dot: [co]
+- thanh cong
++ key = 29
++ hash value = 9
++ xung dot: [co]
+- thanh cong
++ key = 30
++ hash value = 5
++ xung dot: [co]
+- thanh cong
++ key = 31
++ hash value = 1
++ xung dot: [co]
+- thanh cong
++ key = 32
++ hash value = 7
++ xung dot: [co]
+- thanh cong
++ key = 33
++ hash value = 3
++ xung dot: [co]
+- thanh cong
++ key = 34
++ hash value = 0
++ xung dot: [co]
+- thanh cong
++ key = 35
++ hash value = 6
++ xung dot: [co]
+- thanh cong
++ key = 36
++ hash value = 2
++ xung dot: [co]
+- thanh cong
++ key = 37
++ hash value = 8
++ xung dot: [co]
+- thanh cong
++ key = 38
++ hash value = 4
++ xung dot: [co]
+- thanh cong
++ key = 39
++ hash value = 1
++ xung dot: [co]
+- thanh cong
++ key = 40
++ hash value = 7
++ xung dot: [co]
+- thanh cong
++ key = 41
++ hash value = 3
++ xung dot: [co]
+- thanh cong
++ key = 42
++ hash value = 9
++ xung dot: [co]
+- thanh cong
++ key = 43
++ hash value = 5
++ xung dot: [co]
+- thanh cong
++ key = 44
++ hash value = 1
++ xung dot: [co]
+- thanh cong
++ key = 45
++ hash value = 8
++ xung dot: [co]
+- thanh cong
++ key = 46
++ hash value = 4
++ xung dot: [co]
+- thanh cong
++ key = 47
++ hash value = 0
++ xung dot: [co]
+- thanh cong
++ key = 48
++ hash value = 6
++ xung dot: [co]
+- thanh cong
++ key = 49
++ hash value = 2
++ xung dot: [co]
+- thanh cong
++ key = 50
++ hash value = 9
++ xung dot: [co]
+- thanh cong
++ key = 51
++ hash value = 5
++ xung dot: [co]
+- thanh cong
++ key = 52
++ hash value = 1
++ xung dot: [co]
+- thanh cong
++ key = 53
++ hash value = 7
++ xung dot: [co]
+- thanh cong
++ key = 54
++ hash value = 3
++ xung dot: [co]
+- thanh cong
++ key = 55
++ hash value = 9
++ xung dot: [co]
+- thanh cong
++ key = 56
++ hash value = 6
++ xung dot: [co]
+- thanh cong
++ key = 57
++ hash value = 2
++ xung dot: [co]
+- thanh cong
++ key = 58
++ hash value = 8
++ xung dot: [co]
+- thanh cong
++ key = 59
++ hash value = 4
++ xung dot: [co]
+- thanh cong
++ key = 60
++ hash value = 0
++ xung dot: [co]
+- thanh cong
++ key = 61
++ hash value = 7
++ xung dot: [co]
+- thanh cong
++ key = 62
++ hash value = 3
++ xung dot: [co]
+- thanh cong
++ key = 63
++ hash value = 9
++ xung dot: [co]
+- thanh cong
++ key = 64
++ hash value = 5
++ xung dot: [co]
+- thanh cong
++ key = 65
++ hash value = 1
++ xung dot: [co]
+- thanh cong
++ key = 66
++ hash value = 7
++ xung dot: [co]
+- thanh cong
++ key = 67
++ hash value = 4
++ xung dot: [co]
+- thanh cong
++ key = 68
++ hash value = 0
++ xung dot: [co]
+- thanh cong
++ key = 69
++ hash value = 6
++ xung dot: [co]
+- thanh cong
++ key = 70
++ hash value = 2
++ xung dot: [co]
+- thanh cong
++ key = 71
++ hash value = 8
++ xung dot: [co]
+- thanh cong
++ key = 72
++ hash value = 4
++ xung dot: [co]
+- thanh cong
++ key = 73
++ hash value = 1
++ xung dot: [co]
+- thanh cong
++ key = 74
++ hash value = 7
++ xung dot: [co]
+- thanh cong
++ key = 75
++ hash value = 3
++ xung dot: [co]
+- thanh cong
++ key = 76
++ hash value = 9
++ xung dot: [co]
+- thanh cong
++ key = 77
++ hash value = 5
++ xung dot: [co]
+- thanh cong
++ key = 78
++ hash value = 2
++ xung dot: [co]
+- thanh cong
++ key = 79
++ hash value = 8
++ xung dot: [co]
+- thanh cong
++ key = 80
++ hash value = 4
++ xung dot: [co]
+- thanh cong
++ key = 81
++ hash value = 0
++ xung dot: [co]
+- thanh cong
++ key = 82
++ hash value = 6
++ xung dot: [co]
+- thanh cong
++ key = 83
++ hash value = 2
++ xung dot: [co]
+- thanh cong
++ key = 84
++ hash value = 9
++ xung dot: [co]
+- thanh cong
++ key = 85
++ hash value = 5
++ xung dot: [co]
+- thanh cong
++ key = 86
++ hash value = 1
++ xung dot: [co]
+- thanh cong
++ key = 87
++ hash value = 7
++ xung dot: [co]
+- thanh cong
++ key = 88
++ hash value = 3
++ xung dot: [co]
+- thanh cong
++ key = 89
++ hash value = 0
++ xung dot: [co]
+- thanh cong
++ key = 90
++ hash value = 6
++ xung dot: [co]
+- thanh cong
++ key = 91
++ hash value = 2
++ xung dot: [co]
+- thanh cong
++ key = 92
++ hash value = 8
++ xung dot: [co]
+- thanh cong
++ key = 93
++ hash value = 4
++ xung dot: [co]
+- thanh cong
++ key = 94
++ hash value = 0
++ xung dot: [co]
+- thanh cong
++ key = 95
++ hash value = 7
++ xung dot: [co]
+- thanh cong
++ key = 96
++ hash value = 3
++ xung dot: [co]
+- thanh cong
++ key = 97
++ hash value = 9
++ xung dot: [co]
+- thanh cong
++ key = 98
++ hash value = 5
++ xung dot: [co]
+- thanh cong
++ key = 99
++ hash value = 1
++ xung dot: [co]
+- tim thay
++ key =	42
++ hash value = 9
++ xung dot: [khong]
+- tim thay
++ key =	68
++ hash value = 0
++ xung dot: [khong]
+- khong tim thay
++ key =	135
++ hash value = 4
++ xung dot: [khong]
+- khong tim thay
++ key =	101
++ hash value = 4
++ xung dot: [khong]
+- khong tim thay
++ key =	170
++ hash value = 0
++ xung dot: [khong]
+- khong tim thay
++ key =	125
++ hash value = 2
++ xung dot: [khong]
+- tim thay
++ key =	79
++ hash value = 8
++ xung dot: [khong]
+- khong tim thay
++ key =	159
++ hash value = 2
++ xung dot: [khong]
+- khong tim thay
++ key =	163
++ hash value = 7
++ xung dot: [khong]
+- tim thay
++ key =	65
++ hash value = 1
++ xung dot: [khong]
+- khong tim thay
++ key =	106
++ hash value = 5
++ xung dot: [khong]
+- khong tim thay
++ key =	146
++ hash value = 2
++ xung dot: [khong]
+- tim thay
++ key =	82
++ hash value = 6
++ xung dot: [khong]
+- tim thay
++ key =	28
++ hash value = 3
++ xung dot: [khong]
+- khong tim thay
++ key =	162
++ hash value = 1
++ xung dot: [khong]
+- tim thay
++ key =	92
++ hash value = 8
++ xung dot: [khong]
+- khong tim thay
++ key =	196
++ hash value = 1
++ xung dot: [khong]
+- khong tim thay
++ key =	143
++ hash value = 3
++ xung dot: [khong]
+- tim thay
++ key =	28
++ hash value = 3
++ xung dot: [khong]
+- tim thay
++ key =	37
++ hash value = 8
++ xung dot: [khong]
+- khong tim thay
++ key =	192
++ hash value = 6
++ xung dot: [khong]
+- tim thay
++ key =	5
++ hash value = 0
++ xung dot: [khong]
+- khong tim thay
++ key =	103
++ hash value = 6
++ xung dot: [khong]
+- khong tim thay
++ key =	154
++ hash value = 1
++ xung dot: [khong]
+- tim thay
++ key =	93
++ hash value = 4
++ xung dot: [khong]
+- khong tim thay
++ key =	183
++ hash value = 1
++ xung dot: [khong]
+- tim thay
++ key =	22
++ hash value = 5
++ xung dot: [khong]
+- khong tim thay
++ key =	117
++ hash value = 3
++ xung dot: [khong]
+- khong tim thay
++ key =	119
++ hash value = 5
++ xung dot: [khong]
+- tim thay
++ key =	96
++ hash value = 3
++ xung dot: [khong]
+- tim thay
++ key =	48
++ hash value = 6
++ xung dot: [khong]
+- khong tim thay
++ key =	127
++ hash value = 4
++ xung dot: [khong]
+- khong tim thay
++ key =	172
++ hash value = 3
++ xung dot: [khong]
+- khong tim thay
++ key =	139
++ hash value = 9
++ xung dot: [khong]
+- tim thay
++ key =	70
++ hash value = 2
++ xung dot: [khong]
+- khong tim thay
++ key =	113
++ hash value = 8
++ xung dot: [khong]
+- tim thay
++ key =	68
++ hash value = 0
++ xung dot: [khong]
+- khong tim thay
++ key =	100
++ hash value = 8
++ xung dot: [khong]
+- tim thay
++ key =	36
++ hash value = 2
++ xung dot: [khong]
+- tim thay
++ key =	95
++ hash value = 7
++ xung dot: [khong]
+- khong tim thay
++ key =	104
++ hash value = 2
++ xung dot: [khong]
+- tim thay
++ key =	12
++ hash value = 4
++ xung dot: [khong]
+- khong tim thay
++ key =	123
++ hash value = 0
++ xung dot: [khong]
+- khong tim thay
++ key =	134
++ hash value = 8
++ xung dot: [khong]
+- tim thay
++ key =	74
++ hash value = 7
++ xung dot: [khong]
+- tim thay
++ key =	65
++ hash value = 1
++ xung dot: [khong]
+- khong tim thay
++ key =	142
++ hash value = 7
++ xung dot: [khong]
+- khong tim thay
++ key =	112
++ hash value = 2
++ xung dot: [khong]
+- tim thay
++ key =	54
++ hash value = 3
++ xung dot: [khong]
+- tim thay
++ key =	69
++ hash value = 6
++ xung dot: [khong]
+- khong tim thay
++ key =	148
++ hash value = 4
++ xung dot: [khong]
+- tim thay
++ key =	45
++ hash value = 8
++ xung dot: [khong]
+- tim thay
++ key =	63
++ hash value = 9
++ xung dot: [khong]
+- khong tim thay
++ key =	158
++ hash value = 6
++ xung dot: [khong]
+- tim thay
++ key =	38
++ hash value = 4
++ xung dot: [khong]
+- tim thay
++ key =	60
++ hash value = 0
++ xung dot: [khong]
+- khong tim thay
++ key =	124
++ hash value = 6
++ xung dot: [khong]
+- khong tim thay
++ key =	142
++ hash value = 7
++ xung dot: [khong]
+- khong tim thay
++ key =	130
++ hash value = 3
++ xung dot: [khong]
+- khong tim thay
++ key =	179
++ hash value = 6
++ xung dot: [khong]
+- khong tim thay
++ key =	117
++ hash value = 3
++ xung dot: [khong]
+- tim thay
++ key =	36
++ hash value = 2
++ xung dot: [khong]
+- khong tim thay
++ key =	191
++ hash value = 0
++ xung dot: [khong]
+- tim thay
++ key =	43
++ hash value = 5
++ xung dot: [khong]
+- tim thay
++ key =	89
++ hash value = 0
++ xung dot: [khong]
+- khong tim thay
++ key =	107
++ hash value = 1
++ xung dot: [khong]
+- tim thay
++ key =	41
++ hash value = 3
++ xung dot: [khong]
+- khong tim thay
++ key =	143
++ hash value = 3
++ xung dot: [khong]
+- tim thay
++ key =	65
++ hash value = 1
++ xung dot: [khong]
+- tim thay
++ key =	49
++ hash value = 2
++ xung dot: [khong]
+- tim thay
++ key =	47
++ hash value = 0
++ xung dot: [khong]
+- tim thay
++ key =	6
++ hash value = 7
++ xung dot: [khong]
+- tim thay
++ key =	91
++ hash value = 2
++ xung dot: [khong]
+- khong tim thay
++ key =	130
++ hash value = 3
++ xung dot: [khong]
+- khong tim thay
++ key =	171
++ hash value = 6
++ xung dot: [khong]
+- khong tim thay
++ key =	151
++ hash value = 3
++ xung dot: [khong]
+- tim thay
++ key =	7
++ hash value = 3
++ xung dot: [khong]
+- khong tim thay
++ key =	102
++ hash value = 0
++ xung dot: [khong]
+- khong tim thay
++ key =	194
++ hash value = 8
++ xung dot: [khong]
+- khong tim thay
++ key =	149
++ hash value = 0
++ xung dot: [khong]
+- tim thay
++ key =	30
++ hash value = 5
++ xung dot: [khong]
+- tim thay
++ key =	24
++ hash value = 8
++ xung dot: [khong]
+- tim thay
++ key =	85
++ hash value = 5
++ xung dot: [khong]
+- khong tim thay
++ key =	155
++ hash value = 7
++ xung dot: [khong]
+- khong tim thay
++ key =	157
++ hash value = 0
++ xung dot: [khong]
+- tim thay
++ key =	41
++ hash value = 3
++ xung dot: [khong]
+- khong tim thay
++ key =	167
++ hash value = 2
++ xung dot: [khong]
+- khong tim thay
++ key =	177
++ hash value = 3
++ xung dot: [khong]
+- khong tim thay
++ key =	132
++ hash value = 5
++ xung dot: [khong]
+- khong tim thay
++ key =	109
++ hash value = 3
++ xung dot: [khong]
+- khong tim thay
++ key =	145
++ hash value = 6
++ xung dot: [khong]
+- tim thay
++ key =	40
++ hash value = 7
++ xung dot: [khong]
+- tim thay
++ key =	27
++ hash value = 6
++ xung dot: [khong]
+- khong tim thay
++ key =	124
++ hash value = 6
++ xung dot: [khong]
+- khong tim thay
++ key =	138
++ hash value = 2
++ xung dot: [khong]
+- khong tim thay
++ key =	139
++ hash value = 9
++ xung dot: [khong]
+- khong tim thay
++ key =	119
++ hash value = 5
++ xung dot: [khong]
+- tim thay
++ key =	83
++ hash value = 2
++ xung dot: [khong]
+- khong tim thay
++ key =	130
++ hash value = 3
++ xung dot: [khong]
+[destructor] - huy bo thanh cong
++ so phan tu xung dot da delete = 89
++ da delete bang T

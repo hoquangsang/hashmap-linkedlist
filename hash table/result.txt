@@ -1,0 +1,114 @@
+[constructor] - khoi tao thanh cong
++ m = 8
++ output file = result.txt
+[insert 1] - thanh cong
++ key = 1
++ hash value = 4
++ xung dot: [khong]
+[insert 2] - thanh cong
++ key = 2
++ hash value = 1
++ xung dot: [khong]
+[insert 3] - thanh cong
++ key = 3
++ hash value = 6
++ xung dot: [khong]
+[insert 4] - thanh cong
++ key = 4
++ hash value = 3
++ xung dot: [khong]
+[insert 5] - thanh cong
++ key = 5
++ hash value = 0
++ xung dot: [khong]
+[insert 6] - thanh cong
++ key = 6
++ hash value = 5
++ xung dot: [khong]
+[insert 7] - thanh cong
++ key = 7
++ hash value = 2
++ xung dot: [khong]
+[insert 8] - thanh cong
++ key = 8
++ hash value = 7
++ xung dot: [khong]
+[insert 9] - thanh cong
++ key = 9
++ hash value = 4
++ xung dot: [co]
+[insert 10] - thanh cong
++ key = 10
++ hash value = 1
++ xung dot: [co]
+[insert 11] - thanh cong
++ key = 11
++ hash value = 6
++ xung dot: [co]
+[insert 12] - thanh cong
++ key = 12
++ hash value = 3
++ xung dot: [co]
+[insert 13] - thanh cong
++ key = 13
++ hash value = 0
++ xung dot: [co]
+[insert 14] - thanh cong
++ key = 14
++ hash value = 5
++ xung dot: [co]
+[insert 15] - thanh cong
++ key = 15
++ hash value = 2
++ xung dot: [co]
+[insert 16] - thanh cong
++ key = 16
++ hash value = 7
++ xung dot: [co]
+[insert 17] - thanh cong
++ key = 17
++ hash value = 4
++ xung dot: [co]
+[insert 18] - thanh cong
++ key = 18
++ hash value = 0
++ xung dot: [co]
+[insert 19] - thanh cong
++ key = 19
++ hash value = 5
++ xung dot: [co]
+[insert 20] - thanh cong
++ key = 20
++ hash value = 2
++ xung dot: [co]
+[search 1] - tim thay
++ key =	1
++ hash value = 4
++ xung dot: [khong]
+[search 2] - tim thay
++ key =	4
++ hash value = 3
++ xung dot: [khong]
+[search 3] - tim thay
++ key =	7
++ hash value = 2
++ xung dot: [khong]
+[search 4] - tim thay
++ key =	10
++ hash value = 1
++ xung dot: [co]
+[search 5] - tim thay
++ key =	13
++ hash value = 0
++ xung dot: [co]
+[search 6] - tim thay
++ key =	16
++ hash value = 7
++ xung dot: [co]
+[search 7] - tim thay
++ key =	19
++ hash value = 5
++ xung dot: [co]
+[destructor] - huy bo thanh cong
++ so phan tu xung dot da delete = 12
++ da delete bang T
